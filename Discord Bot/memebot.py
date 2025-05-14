@@ -25,4 +25,4 @@ intents.message_content = True
 
 #Starting client and authenticating with Discord
 client = MyClient(intents=intents)
-client.run('Your Token here')
+#client.run('Your Token here')
