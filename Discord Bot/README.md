@@ -14,3 +14,5 @@ PROGRAMMING:
 3. Running the bot and responding to messages
 4. Configuring the bot to send memes via API
 5. Cooking up the best memes of the modern age
+
+*Note* I have removed my API key for security purposes please create your own from discord's website in a secure environment and uncomment/add it to line 28 to run code.
